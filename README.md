@@ -1,3 +1,3 @@
 # MDImage
-images for markdown
+images for markdown of VScode.
 
